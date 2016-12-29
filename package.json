@@ -1,0 +1,11 @@
+{
+  "name": "javascript-randomizer",
+  "version": "1.0.0",
+  "description": "JavaScript randomizer",
+  "main": "node-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Munoz <alex@napend.com>",
+  "license": "ISC"
+}
